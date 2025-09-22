@@ -11,5 +11,6 @@ h1 {
   padding: 20px;
   text-align: left;
   font-size: 1.5em;
-  background-color: rgb(180, 180, 180); 
+  background-color: rgb(180, 180, 180);
+  margin: -5px; 
 }
