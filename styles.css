@@ -48,7 +48,7 @@ ul li a:hover {
   background-color: #111111;
 }
 
-contact_box {
+.contact_box {
 background-color: red;
 text-align: center;
 color: #333333;
