@@ -47,3 +47,10 @@ ul li c {
 ul li a:hover {
   background-color: #111111;
 }
+
+contact_box {
+background-color: red;
+text-align: center;
+color: #333333;
+padding: 5%;
+}
