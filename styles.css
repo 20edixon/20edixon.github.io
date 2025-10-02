@@ -2,10 +2,6 @@ body {
   font: 1.2em "Verdana", sans-serif;
 }
 
-p {
-  padding: auto;
-}
-
 h1 {
   color: red;
 }
@@ -56,4 +52,6 @@ ul li a:hover {
   text-align: center;
   color: #333333;
   padding: 5%;
+  margin: auto;
+  width: 66%;
 }
