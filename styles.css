@@ -1,6 +1,9 @@
 body {
   font: 1.2em "Verdana", sans-serif;
-  margin: 5%;
+}
+
+p {
+  margin: auto;
 }
 
 h1 {
