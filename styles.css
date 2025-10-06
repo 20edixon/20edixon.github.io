@@ -62,7 +62,9 @@ h1 {
   background-color: red;
   text-align: center;
   color: #333333;
-  width: 70%;
+  width: 90%;
+  height: 200px;
+  margin: 20px auto;
 }
 
 .main_text{
