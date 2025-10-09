@@ -68,7 +68,7 @@ h1 {
   height: 200px;
   margin: 20px auto;
   border-radius: 40px;
-  padding: 2%;
+  padding: 10px;
   color: white;
   min-width: 650px;
 }
@@ -81,14 +81,14 @@ h1 {
   height: 400px;
   margin: 20px auto;
   border-radius: 40px;
-  padding: 2%;
+  padding: 10px;
   color: white;
   min-width: 650px;
   display:flex;
 }
 
 .project_box div {
-  padding: 1%;
+  padding: 10px;
   text-align: left;
   color: white;
   text-wrap: balance;
@@ -100,6 +100,6 @@ h1 {
 
 img {
   width: auto;
-  height: 400px;
+  height: 380px;
   border-radius: 50px;
 }
