@@ -83,16 +83,16 @@ h1 {
   padding: 2%;
   color: white;
   min-width: 650px;
+  display:flex;
 }
- .project_box .text {
+ .project_box div {
   padding: 1%;
   text-align: left;
   color: white;
-  position: relative;
-  top: -415px;
-  left: 400px;
-  
+  text-wrap: balance;
  }
+
+ .project
 
 .main_text{
   margin: 10px;
