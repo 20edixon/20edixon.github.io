@@ -23,7 +23,7 @@ h1 {
   list-style-type: none;
   padding: 0 auto;
   background-color: #333333; 
-  min-width: 670px;
+  min-width: 690px;
   overflow: hidden;
 }
 
@@ -68,7 +68,7 @@ h1 {
   height: 200px;
   margin: 20px auto;
   border-radius: 40px;
-  padding: 10px;
+  padding: 20px;
   color: white;
   min-width: 650px;
 }
@@ -81,18 +81,34 @@ h1 {
   height: 400px;
   margin: 20px auto;
   border-radius: 40px;
-  padding: 10px;
+  padding: 20px;
   color: white;
   min-width: 650px;
-  display:flex;
+  display:grid;
+  grid-template-columns: auto auto;
+  column-gap: 10px;
 }
 
-.project_box div {
-  padding: 10px;
+.project_box .text {
+  padding: 5px;
   text-align: left;
   color: white;
-  text-wrap: balance;
  }
+
+.project_box .button {
+  padding: 20px;
+  text-align: center;
+  color: white;
+  text-wrap: balance;
+  background-color: rgb(80, 135, 6);
+  position: relative;
+  top: -75px;
+  border-radius: 10px;
+ }
+
+ .project_box .button:hover {
+  background-color: #111111;
+}
 
 .main_text{
   margin: 10px;
@@ -100,6 +116,6 @@ h1 {
 
 img {
   width: auto;
-  height: 380px;
-  border-radius: 50px;
+  height: 400px;
+  border-radius: 25px;
 }
