@@ -160,10 +160,11 @@ h1 {
 .about_box .vex img {
   width: auto;
   height: 125px;
-  margin: 10px;
+  margin: 10px 10px 0px 10px;
   float: left;
   position: relative;
   top: 10px;
+
 }
 
 .about_box a {
