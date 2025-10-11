@@ -149,15 +149,6 @@ h1 {
   min-width: 650px;
 }
 
-.about_box .about_images {
-  width: auto;
-  height: 200px;
-  border-radius: 0px;
-  margin: 0px;
-  float: right;
-  display:flexbox;
-  }
-
 .about_box img{
   width: auto;
   height: 150px;
