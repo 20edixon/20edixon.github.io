@@ -149,9 +149,8 @@ h1 {
   min-width: 650px;
 }
 
-.about_box img{
+.about_box img {
   width: auto;
-  height: 150px;
-  border-radius: 25px;
+  height: 300px;
   margin: 10px;
-} 
+  float: right;}
