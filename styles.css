@@ -156,7 +156,7 @@ h1 {
   margin: 20px auto;
   border-radius: 40px;
   padding: 30px;
-  min-width: 650px;
+  min-width: 630px;
   min-height: 540px;
 }
 
@@ -191,21 +191,43 @@ h1 {
   margin: 20px auto;
   border-radius: 40px;
   padding: 30px;
-  min-width: 650px;
+  min-width: 630px;
 }
 
 .home_images {
   display: flex;
   margin: 10px auto;
-  width: 70%;
+  width: 55%;
   height: auto;
   padding: 20px;
   float: center;
+  min-width: 650px;
 }
 
-.home_images img {
-  width: 40%;
+.home_images .img1 img{
+  width: 118.31%;
   height: auto;
   margin: 10px auto;
   border-radius: 25px;
+}
+
+.home_images .img2 img{
+  width: 100%;
+  height: auto;
+  margin: 10px auto;
+  border-radius: 25px;
+}
+
+.home_images .img1 {
+  flex: 1;
+  margin: 10px;
+}
+
+.home_images .spacer {
+  width: 10%;
+}
+
+.home_images .img2 {
+  flex: 1;
+  margin: 10px;
 }
