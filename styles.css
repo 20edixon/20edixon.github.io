@@ -108,6 +108,10 @@ h1 {
   color: white;
  }
 
+h2 {
+  margin: 0px 0px 10px 0px;
+ }
+
 .project_box a .button{
   padding: 20px;
   text-align: center;
