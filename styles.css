@@ -227,4 +227,24 @@ h2 {
   border-radius: 40px;
   padding: 30px;
   min-width: 630px;
+  display: flex;
 }
+
+.vex_box .img img{
+  height: auto;
+  width: 100%;
+  border-radius: 25px;
+}
+
+.vex_box .img{
+  height: auto;
+  width: 100%;
+  border-radius: 25px;
+}
+
+.vex_box .text{
+  height: auto;
+  width: 100%;
+  border-radius: 25px; 
+}
+
