@@ -225,7 +225,7 @@ h2 {
   height: auto;
   margin: 20px auto;
   border-radius: 40px;
-  padding: 30px;
+  padding: 25px;
   min-width: 630px;
   display: flex;
 }
@@ -238,13 +238,25 @@ h2 {
 
 .vex_box .img{
   height: auto;
-  width: 100%;
-  border-radius: 25px;
+  width: 180%;
+  border-radius: 20px;
+  margin: 0px 10px 0px 0px;
 }
 
 .vex_box .text{
   height: auto;
   width: 100%;
   border-radius: 25px; 
+
+  text-align: left;
 }
 
+.vex_box a {
+  text-decoration: none;
+  color: rgb(80, 135, 6);
+}
+
+.spacer{
+  height: 50px;
+  width: auto;
+}
