@@ -260,3 +260,7 @@ h2 {
   height: 50px;
   width: auto;
 }
+
+.vex_box .link{
+  margin: 10px 0px 0px 0px;
+}
