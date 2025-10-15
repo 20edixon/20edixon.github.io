@@ -264,3 +264,22 @@ h2 {
 .vex_box .link{
   margin: 10px 0px 0px 0px;
 }
+
+.back_link .back_button{
+  padding: 20px;
+  text-align: center;
+  color: white;
+  background-color: rgb(80, 135, 6);
+  position: relative;
+  border-radius: 10px;
+  width: 70%;
+  margin: auto auto 25px auto;
+}
+
+.back_link a{
+  text-decoration: none;
+}
+
+.back_link .back_button:hover{
+  background-color: #111111;
+}
