@@ -117,8 +117,6 @@ h2 {
   text-align: center;
   color: white;
   background-color: rgb(80, 135, 6);
-  position: relative;
-  top: -70px;
   border-radius: 10px;
  }
 
@@ -127,6 +125,8 @@ h2 {
 }
 
 .project_box a {
+  position: relative;
+  top: -70px;
   text-decoration: none;
 }
 
@@ -265,15 +265,16 @@ h2 {
   margin: 10px 0px 0px 0px;
 }
 
+.back_link{
+  width: 70%;
+  margin: auto auto 25px auto;
+}
 .back_link .back_button{
   padding: 20px;
   text-align: center;
   color: white;
   background-color: rgb(80, 135, 6);
-  position: relative;
   border-radius: 10px;
-  width: 70%;
-  margin: auto auto 25px auto;
 }
 
 .back_link a{
